@@ -6,7 +6,7 @@ Scavenge Datasets from Public domain and perform preprocessing and analysis; App
 
 ## Milestone Projects
 1. Under-/Over- Sampling Techniques
-    Introduction to Balancing a Dataset: [Evaluating the Condition of Used Cars](https://github.com/SheninFrancies/Machine-Learning-and-Data-Science/blob/main/Machine%20Learning%20Techniques/Car%20Evaluation.ipynb)
+      Introduction to Balancing a Dataset: [Evaluating the Condition of Used Cars](https://github.com/SheninFrancies/Machine-Learning-and-Data-Science/blob/main/Machine%20Learning%20Techniques/Car%20Evaluation.ipynb)
     - Evaluating the Performance of Models using PCA, ROC and Precision-Recall Curve: [Chronic Liver Disease](https://github.com/SheninFrancies/Machine-Learning-and-Data-Science/blob/main/Machine%20Learning%20Techniques/Low-volume%20Datasets/Chronic%20Liver%20Disease%20-%20ML%20Techniques.ipynb)
     - Evaluating the Performance of Models using PCA and ROC
   
